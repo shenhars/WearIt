@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254245144387",
+    "project_id": "hackathon-e1a01",
+    "storage_bucket": "hackathon-e1a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254245144387:android:350f657541a3c3a99fd1f6",
+        "android_client_info": {
+          "package_name": "com.shahar.wear_it"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2RyvFSur8Km2Iwqj7OAplgDmO-a0gic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
