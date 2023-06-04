@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "certain-arcana-388508",
+  "private_key_id": "702d5f659a97b5cb11d6fc182913d7f935717b5b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC9K3f70rvCGjWf\n1iXYiolMKprtMt9eSbiIvIUgmXA/o16XM0l/tiBVXppyrHWYZsnZZo4LKft66GVw\nmLToNmYCKsMtNuVTDa9rw1hJYu3pbbYKfAthzEmZjPYX/mRKqomWdU4yxN/e34hq\nznlEvg/Z9FIY8QvmL9QuKctGrlRdhWYqJ37Ra4epgAeB1d6l0ck0alyIXuPlVwD8\nOJ3S8dQn0yzkzELtYIVwMBEc7tTY9vJ0i0KezN02/c6K1PCgN52KLBFMyNZ57kWe\nQt9lxLZH+tAiRvOkDzVCXYroxU01CA7SfZoZl+OJopX60NU2Lp9rEYiUgsu765nf\nz1ku6RJVAgMBAAECggEAQDEi+vosqpY4Qi/qEcwZARaoEfukXpuHmibWyhQnSgEH\nFSnbNBI6cJ20rVsmYHvo3PP3GYS6iJ+Z5JZ9NRtYjD20k4BAW2mWcGwOZoDCmOaY\n0n/7YMlw5EE4NTYnFEtAeyT9Ty8NhNS3tv6vmgsg1+YXgc0yK39pcezOxQJdMIqB\nnru1gUD9P4ZS6yCUqZoZIX89199SmwuX7Y7sEBE17bSDrxXezsy3T8FDcTEEU+To\nv3s1p8FjIp93A+o8W5+iJVnFTz6ndDFQPH4//5kVsJ0pfXhPIRzhTV7SghKE1mdD\nDTXeNIS7Gw5g+c3zezNukqtnctbjCfFWW3p/pAFVNQKBgQDevLrbSjv7Sgu+HF47\ntEBcvIiFL0TM62Gh6dNwnTWpCZ7740l9KnrEnYMheGnZg6ECYWhNXvKCGVYqK/sq\nFqwV6F/FDgTE9OufFVonqXYOVeLZaNhSKEr6ZRO76ePeYqW8CQaeMA/NfXG6NnVP\nkdQPruCwOXCMOY9LEXF1H22B9wKBgQDZa3PAAenjOzXGczTCGkZZmx0wiU8yirAY\nvGtCSYgFshiYJt7CtvFVEll3ICJV2/sSVuSB8OhsizleLoMF7oLFuWWtrT2HGQxo\nPOH9TNegM7imIFtpWXZ0awaPl7Fiv1H42u2pLQ7C4YBX+8Mkv+PKVojh3H0zeGkU\n+bVgHK+7EwKBgDaMXe6qhXoLLkkGxYU1pbWQbpa/dsgAtU5j52Zi+etF8euaRDsl\nFh/ku2KNDM86T0o39MVOBXIbJmD5mG88UjSjTiECR+S8Xp/9KLEh7UmhewbniGLG\nf2ZHLsgMhcPGwPQF+drvxk7688k44Q31lsuodlpyFsAgsJkf0ntukPENAoGBAJ5y\nmYN3oYzxLKp4cR136ocI7QffOXFa8yTDw+MmFVQZS6Uuxq7ehhf6bGrNZ1htHZdq\n7dLoz2mzONazTNc4z+Lqzvf4Rdu73Hfmzsc7hfUBXHLtJ9Ep2pLTII/q++I8DbAv\nVH4zEQvjLRZxqvCQS6C82brIZhHpkaMwrAbkQQkzAoGBAJv/ldlSviKVzKyoClWA\nHacKUizrWiCFq5mtYi2cpI1N1rw/agAdmMx5ytsdbpxTC5RTvWjOCtIjck7vrMNz\n3HrnEiYrQIQ68IGf2mGbsMW4YfMGyb/0i8LJodU6t0BJdcA0N53Dr2XARy18QgMn\n9gv6lvjBjV7zEhfEVliZK3KA\n-----END PRIVATE KEY-----\n",
+  "client_email": "hackathon-wearit@certain-arcana-388508.iam.gserviceaccount.com",
+  "client_id": "115373766958870593720",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hackathon-wearit%40certain-arcana-388508.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
